@@ -3,6 +3,7 @@
 Report statistico aperto sulle **quotazioni delle auto usate in Italia (Privato vs Concessionario)**, analisi dello spread di margine per commercianti d'auto e guide fiscali per operatori del settore automotive, curato da **[AutoScraper Pro](https://autoscraperpro.com)**.
 
 🔗 **Piattaforma Ufficiale:** [https://autoscraperpro.com](https://autoscraperpro.com)  
+🧮 **Calcolatore Gratuito Regime del Margine & Scorporo IVA:** [https://autoscraperpro.com/calcolatore-margine](https://autoscraperpro.com/calcolatore-margine)  
 📊 **Hub Osservatorio Dati (50 Guide Provinciali):** [https://autoscraperpro.com/osservatorio](https://autoscraperpro.com/osservatorio)  
 📚 **Blog & Guide Fiscali Concessionari:** [https://autoscraperpro.com/blog](https://autoscraperpro.com/blog)  
 ✈️ **Canale Telegram Radar Affari Privati:** [https://t.me/autoscraperpro](https://t.me/autoscraperpro)
